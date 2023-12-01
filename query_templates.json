@@ -1,0 +1,5 @@
+{
+    "allfield_query": "https://dl.acm.org/action/doSearch?AllField={query}&expand=all&ConceptID={concept_id}",
+    "after_before_year_attrs": "&AfterYear={after_year}&BeforeYear={before_year}",
+    "page_crawling_attrs": "&pageSize={page_size}&startPage={start_page}"
+}
